@@ -1,5 +1,4 @@
 # -Convolution---DFT
-````markdown
 # Digital Signal Processing Take-home Assignment
 
 ## Convolution and Discrete Fourier Transform (DFT)
